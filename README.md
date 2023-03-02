@@ -2,7 +2,8 @@
 # Web-Messenger
 
 Web Messenger is a MongoDB and Express-based Project which is a dynamic and user-friendly messaging platform crafted with cutting-edge web development technologies. 
-Built on the robust foundation of Express, Mongoose, MongoDB, EJS, HTML, CSS, and JavaScript,Node.js
+Built on the robust foundation of Express, Mongoose, MongoDB, EJS, HTML, CSS, and JavaScript,Node.js.
+This project redefines online communication and stores the data.
 
 ## Tech Stack
 
