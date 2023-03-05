@@ -7,7 +7,7 @@ This project redefines online communication and stores the data.
 
 ## Tech Stack
 
-
+Framework
 HTML, CSS, JavaScript(Node.js),Express.js, EJS, Concept of RESTful API utilized, MongoDB, Mongoose,
 Visual Studio Code.
 
