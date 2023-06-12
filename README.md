@@ -14,7 +14,7 @@ Visual Studio Code.
 
 ## Features
 
-Users can seamlessly send messages in real-time, fostering instant and meaningful conversations. The intuitive interface provides a smooth chatting experience, allowing users to send a new message, edit/update and delete messages effortlessly, and even displaying standard Indian time and date, ensuring that users stay informed about the local timestamp of their conversations.
+Users can seamlessly send messages in real-time, fostering instant and meaningful conversations. The intuitive interface provides a smooth chatting experience, allowing users to send a new message, edit/update and delete messages effortlessly, and even displaying standard Indian time and date, ensuring that users stay informed about the local timestamp of their conversations. Real-time Messaging: Experience the thrill of instant communication with real-time message delivery.
 
 ## Run Locally
 
