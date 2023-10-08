@@ -40,5 +40,5 @@ Run the project / Start the server locally
 ## Demo
 
 
-link to demo :
+link to demo : https://drive.google.com/file/d/1oyCTcsaGWaXS8I3YMuO3V6uLQLeu-LLs/view?usp=sharing
 
