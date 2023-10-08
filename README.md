@@ -21,7 +21,7 @@ Users can seamlessly send messages in real time, fostering instant and meaningfu
 Clone the project
 
 ```bash
-  git clone https://github.com/Anjali17aj/UserVault.git
+  git clone https://github.com/Anjali17aj/Web-Messenger.git)
 ```
 
 Go to the project directory
